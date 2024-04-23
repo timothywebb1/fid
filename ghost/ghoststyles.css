@@ -1,0 +1,85 @@
+@charset "UTF-8";
+body {
+color: #39FF14;
+  background-color: #000000;
+  margin: 0 10%;
+font-family: Tahoma, sans-serif;
+  }
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+font-family: Tahoma, sans-serif;
+  text-transform: uppercase;
+  border-bottom: 1px solid #39FF14;
+  margin-top: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+font-family: Tahoma, sans-serif;
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+
+h3 {
+  color: #39FF14;
+font-family: Tahoma, sans-serif;
+  font-size: 1em;
+}
+
+h4 {
+text-align: center;
+  font-weight: normal;
+
+}
+
+footer {
+	  border-top: 1px solid #39FF14;
+	  text-align: center;
+	  padding-top: 1em;
+}
+footer img {
+	width: 40px;
+	height: 40px;
+	margin-left: .5em;
+	margin-right: .5em;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+font-family: Tahoma, sans-serif;
+text-align: center;
+}
+
+a:link {
+color: #339933;
+  font-weight: bold;
+font-family: Tahoma, sans-serif;
+text-align: center;
+}
+
+a:visited {
+color: #739373;
+  font-weight: bold;
+font-family: Tahoma, sans-serif;
+text-align: center;
+}
+
+a:focus, a:hover {
+color: #04f200;
+background-color: #003300;
+  font-weight: bold;
+font-family: Tahoma, sans-serif;
+text-align: center;
+}
+
+a:active {
+color: #00ff00;
+background-color: #003300;
+  font-weight: bold;
+font-family: Tahoma, sans-serif;
+text-align: center;
+}
